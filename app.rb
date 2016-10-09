@@ -1,5 +1,6 @@
 require 'rspotify/oauth'
 require 'dotenv'
+Dotenv.load
 
 class App < Sinatra::Base
 	enable :sessions
