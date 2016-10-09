@@ -1,4 +1,5 @@
 require 'rspotify/oauth'
+require 'dotenv'
 
 class App < Sinatra::Base
 	enable :sessions
@@ -64,7 +65,7 @@ class App < Sinatra::Base
 	 
 	  spotify_user = RSpotify::User.new(request.env['omniauth.auth'])
 
-		playlist_name = "test"
+		playlist_name = "macmacmac"
 	  playlist = spotify_user.playlists.select { |p| p.name == playlist_name }.first || spotify_user.create_playlist!(playlist_name)
 
 	  song_ids = []
