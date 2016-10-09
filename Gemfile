@@ -14,7 +14,7 @@ gem 'omniauth'
 gem 'httparty'
 
 # env variables
-gem 'figaro'
+gem 'dotenv'
 
 group :development do
 	gem 'shotgun'
