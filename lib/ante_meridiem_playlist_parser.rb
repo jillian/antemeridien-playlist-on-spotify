@@ -10,11 +10,11 @@ class AnteMeridiemPlaylistParser
 		def run
 			playlist_uri = "#{BASE_PATH}/playlist?t=#{ANTE_MERIDIEM_ID}&prog_id=#{PROGRAM_ID}"
 			episodes = HTTParty.get(playlist_uri).parsed_response["playlist"]
-			episodes.each { |episode| parse_playlist(episode["playlist"]) }
+			episodes.each { |episode| create_songs(episode["playlist"]) }
 		end
 
 		private 
-		def parse_playlist(playlists)
+		def create_songs(playlists)
 			playlists.each do |track|
 				Song.create(track: track['trackName'], artist: track['artistName'], album: track['collectionName'])
 			end
