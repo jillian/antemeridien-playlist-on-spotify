@@ -1,20 +1,22 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Antemeridien Playlist on Spotify</title>
+    <title>Ante Meridiem Playlist on Spotify</title>
+    <link rel="stylesheet" type="text/css" href=<%=h url("/normalize.css") %>>
+    <link rel="stylesheet" type="text/css" href=<%=h url("/skeleton.css") %>>    
   </head>
 
    <body>
-    <h1 class="page-header">Antemeridien Playlist on Spotify</h1>
+   <div class="container">
+    <h1>Ante Meridiem Playlist on Spotify</h1>
     <br/>
 
-    <a href="/auth/spotify">Hook Spotify upppp</a>
+    <a class="button button-primary" href="/auth/spotify">Hook Spotify upppp</a>
     <br>
-    <br>
-    <a href="/logout">Unhook Spotify</a>
+    <a class="button" href="/logout">Unhook Spotify</a>
     <br/>
-    <br>
 
     <%= yield %>
+    </div>
   </body>
 </html>

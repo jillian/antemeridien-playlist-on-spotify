@@ -1,5 +1,23 @@
- <% @songs.each do |song| %>
-    <h3><%= song.track_name %></h3>
-    <p><%= song.artist %></p>
-    <p><%= song.album %></p>
-  <% end %>
+<h5>Most Recent Songs Added to Ante Meridiem Playlist</h5>
+<table class="u-full-width">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Artist</th>
+      <th>Album</th>
+    </tr>
+  </thead>
+  <tbody>
+  	<% @songs.each do |song| %>
+    <tr>
+      <td><%=h song.track %></td>
+      <td><%=h song.artist %></td>
+      <td><%=h song.album %></td>
+    </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<p>For the full list, <a href="http://wcbe.org/programs/ante-meridiem">click here!</a></p>
+
+ <p>hiii</p>
