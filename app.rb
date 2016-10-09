@@ -14,11 +14,9 @@ class App < Sinatra::Base
 
 	configure do
 	  use OmniAuth::Builder do
-	    provider :spotify, "1707340075004ec98a9ce7204eada197", "0db43c4c05634a43ac79c679774aa062", scope: 'user-read-email playlist-modify playlist-modify-private'
+	    provider :spotify, ENV["SPOTIFY_CLIENT_ID"], ENV["SPOTIFY_CLIENT_SECRET"], scope: 'user-read-email playlist-modify playlist-modify-private'
 	  end
 	end
-	# ENV["spotify_client_id"]
-	# ENV["spotify_client_secret"]
 
 	helpers do 
 	  include Rack::Utils

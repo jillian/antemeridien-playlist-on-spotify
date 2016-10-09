@@ -56,11 +56,10 @@ GEM
       data_objects (= 0.10.17)
     domain_name (0.5.20160826)
       unf (>= 0.0.5, < 1.0.0)
+    dotenv (2.1.1)
     faraday (0.9.2)
       multipart-post (>= 1.2, < 3)
     fastercsv (1.5.5)
-    figaro (1.1.1)
-      thor (~> 0.14)
     hashie (3.4.6)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
@@ -114,7 +113,6 @@ GEM
     sinatra-reloader (1.0)
       sinatra-contrib
     stringex (1.5.1)
-    thor (0.19.1)
     tilt (2.0.5)
     unf (0.1.4)
       unf_ext
@@ -128,7 +126,7 @@ DEPENDENCIES
   data_mapper
   dm-core
   dm-sqlite-adapter
-  figaro
+  dotenv
   httparty
   omniauth
   rspotify
