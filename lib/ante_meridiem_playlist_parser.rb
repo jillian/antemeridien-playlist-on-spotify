@@ -9,6 +9,7 @@ class AnteMeridiemPlaylistParser
 	class << self 
 		def run
 			playlist_uri = "#{BASE_PATH}/playlist?t=#{ANTE_MERIDIEM_ID}&prog_id=#{PROGRAM_ID}"
+			Log.logger.info "playlist URI: #{playlist_uri}"
 			episodes = HTTParty.get(playlist_uri).parsed_response["playlist"]
 			episodes.each { |episode| create_songs(episode["playlist"]) }
 		end

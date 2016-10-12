@@ -1,0 +1,64 @@
+::1 - - [10/Oct/2016:14:44:02 -0700] "GET / HTTP/1.1" 200 710 0.0289
+::1 - - [10/Oct/2016:14:46:53 -0700] "GET / HTTP/1.1" 200 710 0.0183
+I, [Mon 10-10-2016 1726#87720]  INFO -- : playlist URI: https://api.composer.nprstations.org/v1/widget/5187efb6e1c85479698fb0cf/playlist?t=1465352786964&prog_id=5187efc8e1c85479698fb116
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Magnetica, ARTIST: Quantic
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Somebody Changed The Lock, ARTIST: Anders Osborne And Bill Kreutzmann
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Wishing He Was Dead, ARTIST: The Like
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: If You Want To Sing, ARTIST: John Brown's Body
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Blues For Howard, ARTIST: Watermelon Slim And The Workers
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Complacent Race, ARTIST: Twiddle
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Let Me Get By, ARTIST: Tedeschi Trucks Band
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: My Funny Valentine, ARTIST: Dex Romweber
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: The Anthem (Feat. Mike Avery), ARTIST: GRiZ
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Trouble In Here, ARTIST: The Frightnrs
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Kill The Beast, ARTIST: Huntertones
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Sooner Or Later, ARTIST: Sonny Knight & The Lakers
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: The Guys. Get. Shirts., ARTIST: Charlie Hunter
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Mexicanos, ARTIST: Charanga Cakewalk
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: La Boîte De Nuit, ARTIST: Françoiz Breut
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Kottó (El Primer Paso), ARTIST: Hijas Del Sol
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Modo Cubano, ARTIST: Paquito D'Rivera
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Incantation, ARTIST: Loreena McKennitt
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Um Mundo Estranho, ARTIST: Celso Fonseca
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Muengue Mwa Ndolo, ARTIST: Coco Mbassi
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Overture, ARTIST: Nueva Manteca
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: I Found Joy, ARTIST: Cyril Neville
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Give It Up, ARTIST: Angel Olsen
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: The Real Deal, ARTIST: The Deslondes
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Real Love Baby, ARTIST: Father John Misty
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Older And Taller, ARTIST: Regina Spektor
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: By The Morning, ARTIST: The Walcotts
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: The Ghost Of The St Louis Blues, ARTIST: Maria Muldaur
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Heavy Metal Floating Upstream, ARTIST: Marco Benevento
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Working For The Man, ARTIST: Nathen Maxwell & The Original Bunny Gang
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Lay My Lily Down, ARTIST: Bob Weir
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: All For You, ARTIST: Imelda May
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Theme For A Taiwanese Woman In Lime Green, ARTIST: Devendra Banhart
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Moony Eyed Walrus, ARTIST: Cayucas
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: To The Light, ARTIST: Paper Bird
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Miss Ann, ARTIST: Seth Walker
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Our Hearts Were Young, ARTIST: The Wooden Sky
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Wildwood Flower, ARTIST: John Scofield
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Someone To Lose, ARTIST: Wilco
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: You Bug Me, ARTIST: Francine Reed
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Same to You, ARTIST: Lydia Loveless
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: A Little Revolution, ARTIST: Firewater
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Strictly Roots, ARTIST: Morgan Heritage
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: The Right Thing Right, ARTIST: Johnny Marr
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: All About The Cash, ARTIST: Tommy Castro & The Painkillers
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Downward Facing Dog, ARTIST: moe.
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: The Happy Camper, ARTIST: The Reverend Horton Heat
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Through My Eyes, ARTIST: Everyday Prophets
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: If You Want It, ARTIST: Sam Roberts Band
+I, [Mon 10-10-2016 1726#87720]  INFO -- : TRACK: Ooh Na Nay, ARTIST: Cha Wa
+I, [Mon 10-10-2016 1726#87720]  INFO -- : Songs Found on Spotify: 0
+I, [Mon 10-10-2016 1900#88905]  INFO -- : playlist URI: https://api.composer.nprstations.org/v1/widget/5187efb6e1c85479698fb0cf/playlist?t=1465352786964&prog_id=5187efc8e1c85479698fb116
+I, [Mon 10-10-2016 1900#88905]  INFO -- : Songs Found on Spotify: 0
+I, [Tue 11-10-2016 1339#88905]  INFO -- : playlist URI: https://api.composer.nprstations.org/v1/widget/5187efb6e1c85479698fb0cf/playlist?t=1465352786964&prog_id=5187efc8e1c85479698fb116
+I, [Tue 11-10-2016 1339#94895]  INFO -- : playlist URI: https://api.composer.nprstations.org/v1/widget/5187efb6e1c85479698fb0cf/playlist?t=1465352786964&prog_id=5187efc8e1c85479698fb116
+I, [Tue 11-10-2016 1339#94895]  INFO -- : playlist URI: https://api.composer.nprstations.org/v1/widget/5187efb6e1c85479698fb0cf/playlist?t=1465352786964&prog_id=5187efc8e1c85479698fb116
+I, [Tue 11-10-2016 1343#94895]  INFO -- : playlist URI: https://api.composer.nprstations.org/v1/widget/5187efb6e1c85479698fb0cf/playlist?t=1465352786964&prog_id=5187efc8e1c85479698fb116
+I, [Tue 11-10-2016 1343#95043]  INFO -- : playlist URI: https://api.composer.nprstations.org/v1/widget/5187efb6e1c85479698fb0cf/playlist?t=1465352786964&prog_id=5187efc8e1c85479698fb116
+I, [Tue 11-10-2016 1343#95043]  INFO -- : Song count: 50
+I, [Tue 11-10-2016 1344#95043]  INFO -- : Songs Found on Spotify: 32
+I, [Tue 11-10-2016 1344#95043]  INFO -- : Playlist track count: 100

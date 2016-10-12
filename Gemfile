@@ -10,7 +10,7 @@ gem 'dm-sqlite-adapter'
 
 # external APIs
 gem 'rspotify'
-gem 'omniauth'
+gem 'omniauth-spotify'
 gem 'httparty'
 
 # env variables

@@ -31,12 +31,14 @@ class SpotifyPlaylistManager
 		  	song_id = filtered["id"]
 		  	@song_ids << song_id unless @playlist.tracks.map(&:id).include? song_id 
 		  end
+		  Log.logger.info "Songs Found on Spotify: #{@song_ids.count}"
 		end
 
 		def add_tracks
 			if !@song_ids.empty?
 		  	tracks = RSpotify::Track.find(@song_ids) 
 		  	@playlist.add_tracks!(tracks)
+		  	Log.logger.info "Playlist track count: #{@playlist.tracks.count}"
 		  end
 		end
 end
